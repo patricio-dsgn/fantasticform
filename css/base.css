@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&display=swap');
+
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	box-sizing: border-box;
+}
+
+body{
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+/*
+200
+300
+400
+600
+700
+900
+*/
+
+.all{
+	border: 5px solid #000;
+}
+
+header{
+	border: 5px solid #c0c;
+}
+
+section{
+	border: 5px solid #ccc;
+}
+
+footer{
+	border: 5px solid #0cc;
+}
+
+
+.col-100{
+	display: inline-block;
+	width: 98%;
+	border: 1px solid #770;
+}
+
+
+.col-50{
+	display: inline-block;
+	width: 48%;
+	border: 1px solid #000;
+}
+
+h1{
+	font-size: 50px;
+}
+
+
+img{
+	width: 100%;
+}
+
+
+
